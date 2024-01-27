@@ -1,0 +1,15 @@
+C:\Users\Jonathan\Source\Repos\EjercicioClase_tarea1\EjercicioClase\bin\Debug\net8.0\EjercicioClase.exe
+C:\Users\Jonathan\Source\Repos\EjercicioClase_tarea1\EjercicioClase\bin\Debug\net8.0\EjercicioClase.deps.json
+C:\Users\Jonathan\Source\Repos\EjercicioClase_tarea1\EjercicioClase\bin\Debug\net8.0\EjercicioClase.runtimeconfig.json
+C:\Users\Jonathan\Source\Repos\EjercicioClase_tarea1\EjercicioClase\bin\Debug\net8.0\EjercicioClase.dll
+C:\Users\Jonathan\Source\Repos\EjercicioClase_tarea1\EjercicioClase\bin\Debug\net8.0\EjercicioClase.pdb
+C:\Users\Jonathan\Source\Repos\EjercicioClase_tarea1\EjercicioClase\obj\Debug\net8.0\EjercicioClase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jonathan\Source\Repos\EjercicioClase_tarea1\EjercicioClase\obj\Debug\net8.0\EjercicioClase.AssemblyInfoInputs.cache
+C:\Users\Jonathan\Source\Repos\EjercicioClase_tarea1\EjercicioClase\obj\Debug\net8.0\EjercicioClase.AssemblyInfo.cs
+C:\Users\Jonathan\Source\Repos\EjercicioClase_tarea1\EjercicioClase\obj\Debug\net8.0\EjercicioClase.csproj.CoreCompileInputs.cache
+C:\Users\Jonathan\Source\Repos\EjercicioClase_tarea1\EjercicioClase\obj\Debug\net8.0\EjercicioClase.sourcelink.json
+C:\Users\Jonathan\Source\Repos\EjercicioClase_tarea1\EjercicioClase\obj\Debug\net8.0\EjercicioClase.dll
+C:\Users\Jonathan\Source\Repos\EjercicioClase_tarea1\EjercicioClase\obj\Debug\net8.0\refint\EjercicioClase.dll
+C:\Users\Jonathan\Source\Repos\EjercicioClase_tarea1\EjercicioClase\obj\Debug\net8.0\EjercicioClase.pdb
+C:\Users\Jonathan\Source\Repos\EjercicioClase_tarea1\EjercicioClase\obj\Debug\net8.0\EjercicioClase.genruntimeconfig.cache
+C:\Users\Jonathan\Source\Repos\EjercicioClase_tarea1\EjercicioClase\obj\Debug\net8.0\ref\EjercicioClase.dll
